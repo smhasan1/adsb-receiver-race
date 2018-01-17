@@ -4,7 +4,7 @@
 
 
 
-**License**
+#License
 
     Copyright (c) 2016, United States Government, as represented by the
     Administrator of the National Aeronautics and Space Administration.

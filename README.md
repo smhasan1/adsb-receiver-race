@@ -2,7 +2,7 @@
 
 This is a detailed comprehensive tutorial on how to setup Runtime for Airspace Concept Evaluation ([RACE](http://nasarace.github.io/race/)) software for Live Data Import from a remote ADS-B receiver. This tutorial also includes a detailed instruction on how to set up the ADS-B receiver server using a raspberry pi.  
 
-**Race Software Screenshots**  
+**Race Software Screenshots:**  
 
 
 

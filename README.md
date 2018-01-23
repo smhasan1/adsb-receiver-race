@@ -1,8 +1,8 @@
 # ADSB-Receiver-RACE
 
-This is a detailed comprehensive tutorial on how to setup Runtime for Airspace Concept Evaluation ([RACE](http://nasarace.github.io/race/)) software for Live Data Import from a remote ADS-B receiver build. This tutorial also includes setting up the ADS-B receiver server using a raspberry pi.  
+This is a detailed comprehensive tutorial on how to setup Runtime for Airspace Concept Evaluation ([RACE](http://nasarace.github.io/race/)) software for Live Data Import from a remote ADS-B receiver. This tutorial also includes a detailed instruction on how to set up the ADS-B receiver server using a raspberry pi.  
 
-
+**Race Software Screenshots**  
 
 
 

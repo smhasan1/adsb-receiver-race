@@ -10,12 +10,27 @@ This is a detailed comprehensive tutorial on how to setup Runtime for Airspace C
 
 **List of Items:**  
 
-<img src="https://user-images.githubusercontent.com/19510655/39546062-1cb914b2-4e21-11e8-8d59-09994cb5b10e.jpg" width="600">
+<img src="https://user-images.githubusercontent.com/19510655/39546062-1cb914b2-4e21-11e8-8d59-09994cb5b10e.jpg" width="600">  
 
 1. Raspberry Pi 3 with an SD card  
-  * https://www.amazon.ca/gp/product/B01D1ZAP3C/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1 &
-  * https://www.amazon.ca/Kingston-microSDHC-Class-Memory-SDC4/dp/B00200K1TS/ref=sr_1_3?ie=UTF8&qid=1525292339&sr=8-3&keywords=kingston+micro+sd+card+8gb  
+* https://www.amazon.ca/Raspberry-Pi-RASPBERRYPI3-MODB-1GB-Model-Motherboard/dp/B01CD5VC92 &  
+* https://www.amazon.ca/Kingston-microSDHC-Class-Memory-SDC4/dp/B00200K1TS/ref=sr_1_3?ie=UTF8&qid=1525292339&sr=8-3&keywords=kingston+micro+sd+card+8gb    
 2. FlightAware Pro Stick USB ADS-B Receiver
+* https://www.amazon.ca/gp/product/B01D1ZAP3C/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1  
+
+3. Micro USB to USB  
+* https://www.amazon.ca/Anker-PowerLine-Micro-USB-10ft/dp/B012WF7ORW/ref=sr_1_4?s=electronics&ie=UTF8&qid=1525292941&sr=1-4&keywords=micro+usb+charge+cable  
+
+4. SMA Male to N-Type Male Cable  
+* https://www.amazon.ca/gp/product/B007PPHVFK/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1  
+Or  
+https://www.digikey.com/products/en?keywords=277-3058-ND  
+
+5. Ethernet Cable
+* https://www.amazon.ca/Fosmon-Network-Ethernet-Router-Printer/dp/B0057I2IS2/ref=sr_1_8?ie=UTF8&qid=1525293355&sr=8-8&keywords=ethernet%2Bcable&th=1  
+
+6. 1090MHz ADS-B Antenna  
+* https://www.amazon.ca/gp/product/B00WZL6WPO/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1  
 
 
 # License

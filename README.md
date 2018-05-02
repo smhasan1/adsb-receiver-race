@@ -10,7 +10,7 @@ This is a detailed comprehensive tutorial on how to setup Runtime for Airspace C
 **List of Items:**  
 
 ![img_20180502_135920](https://user-images.githubusercontent.com/19510655/39546062-1cb914b2-4e21-11e8-8d59-09994cb5b10e.jpg)  
-
+  (1) Raspberry Pi 3
 
 # License
 

@@ -34,7 +34,8 @@ https://www.digikey.com/products/en?keywords=277-3058-ND
 
 **Final Setup: **  
 
-https://user-images.githubusercontent.com/19510655/39548164-b3762a1a-4e27-11e8-8d2b-6a7b102c70a9.jpg
+![img_20180502_140324](https://user-images.githubusercontent.com/19510655/39548164-b3762a1a-4e27-11e8-8d2b-6a7b102c70a9.jpg)
+
 
 
 # License

@@ -32,6 +32,10 @@ https://www.digikey.com/products/en?keywords=277-3058-ND
 6. 1090MHz ADS-B Antenna  
 * https://www.amazon.ca/gp/product/B00WZL6WPO/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1  
 
+**Final Setup: **  
+
+
+
 
 # License
 

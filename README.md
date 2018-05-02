@@ -12,7 +12,9 @@ This is a detailed comprehensive tutorial on how to setup Runtime for Airspace C
 
 <img src="https://user-images.githubusercontent.com/19510655/39546062-1cb914b2-4e21-11e8-8d59-09994cb5b10e.jpg" width="600">
 
-  (1) Raspberry Pi 3
+1. Raspberry Pi 3 with an SD card  
+2. FlightAware Pro Stick USB ADS-B Receiver
+
 
 # License
 

@@ -52,7 +52,7 @@ http://www.satsignal.eu/raspberry-pi/dump1090.html
 &
 https://github.com/jprochazka/adsb-receiver  
 
-The links I've mentioned has a step by step tutorial, but it's not always the case the each step will work perfectly. It's best practice to understand the task and the google for the required steps to achieve it. At times going though several google links would result in success.  
+The links I've mentioned have a step by step tutorial, but it's not always the case the each step will work perfectly. It's best practice to understand the task and the google for the required steps to achieve it. At times the only way to fix the issue would be to go through several google searches.
 
 Please let me know if anyone has any questions regarding the installation or anything else.  
 Email: hasan_msyed@hotmail.com  

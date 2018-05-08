@@ -36,10 +36,11 @@ https://www.digikey.com/products/en?keywords=277-3058-ND
 
 <img src="https://user-images.githubusercontent.com/19510655/39548164-b3762a1a-4e27-11e8-8d2b-6a7b102c70a9.jpg" width="600">
 
-**Background:**
+**Background:**  
 
-Airplanes use ADS–B surveillance technology to determine its location via satellite navigation and periodically broadcasts it, so it can be tracked. It transmits raw data at 1090 MHz and we use a 1090 MHz antenna to receive it. The antenna then sends those raw values to the user, using a USB ADS-B Receiver, and the user decodes the raw data using dump1090 software. Finally, the RACE software is used to overlay the flight locations on a map and it's updated regularly to show flight movement. This whole process is described briefly in this research poster:
+Airplanes use ADS–B surveillance technology to determine its location via satellite navigation and periodically broadcasts it, so it can be tracked. It transmits raw data at 1090 MHz and we use a 1090 MHz antenna to receive it. The antenna then sends those raw values to the user, using a USB ADS-B Receiver, and the user decodes the raw data using dump1090 software. Finally, the RACE software is used to overlay the flight locations on a map and it's updated regularly to show flight movement. This whole process is described briefly in this research poster:  
 
+<img src="https://user-images.githubusercontent.com/19510655/39786650-7b927d66-52ef-11e8-98c0-ed9f2845b730.jpg" width="600">
 
 
 # License

@@ -40,7 +40,22 @@ https://www.digikey.com/products/en?keywords=277-3058-ND
 
 Airplanes use ADS–B surveillance technology to determine its location via satellite navigation and periodically broadcasts it, so it can be tracked. It transmits raw data at 1090 MHz and we use a 1090 MHz antenna to receive it. The antenna then sends those raw values to the user, using a USB ADS-B Receiver, and the user decodes the raw data using dump1090 software. Finally, the RACE software is used to overlay the flight locations on a map and it's updated regularly to show flight movement. This whole process is described briefly in this research poster:  
 
-<img src="https://user-images.githubusercontent.com/19510655/39786650-7b927d66-52ef-11e8-98c0-ed9f2845b730.jpg" width="1000">
+<img src="https://user-images.githubusercontent.com/19510655/39786650-7b927d66-52ef-11e8-98c0-ed9f2845b730.jpg" width="1000">  
+
+There are several ways of setting up this project. In our case we've used a Raspberry Pi 3 (portability advantage) to send signals to multiple users over a server (the server is hosted within the raspberry pi). This step may very well be skipped and the USB ADS-B receiver can be directly connected to the user's computer. Additionally RACE isn't the only software that can overlay flight data on a map, for example FlightRadar24 does the same thing (https://www.flightradar24.com/). However RACE has a unique framework built on Scala and Akka, that deals with parallelism quite affectively. For example if you'd like to have airplane data layer and weather data layer plus other layers, all on top of each other. In that case RACE would fair better than most other layered framework approaches.  
+
+* To install Race on your computer:  
+http://nasarace.github.io/race/usage/running.html  
+
+* To setup a server on Raspberry Pi 3 and install dump1090 software:  
+http://www.satsignal.eu/raspberry-pi/dump1090.html  
+&
+https://github.com/jprochazka/adsb-receiver  
+
+The links I've mentioned has a step by step tutorial, but it's not always the case the each step will work perfectly. It's best practice to understand the task and the google for the required steps to achieve it. At times going though several google links would result in success.  
+
+Please let me know if anyone has any questions regarding the installation or anything else.  
+Email: hasan_msyed@hotmail.com  
 
 
 # License
